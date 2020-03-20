@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e56910df-daa6-4f6a-bd21-9e02ea860df4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZN2bypRsZjtdXi9kHDxe5GTOpP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Origin_Issues/zookeeper" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Origin_Issues/zookeeper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IssueParserTest">
+    <configuration name="IssueParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IssueParser" />
+      <module name="PerfIssuesParser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IssueParserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IssueParserTest" />
+      <module name="PerfIssuesParser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IssueParserTest" />
+        <item itemvalue="Application.IssueParser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e56910df-daa6-4f6a-bd21-9e02ea860df4" name="Default Changelist" comment="" />
+      <created>1584665306624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584665306624</updated>
+      <workItem from="1584665311596" duration="8191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="196" key="#Project_Structure" timestamp="1584673701050">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="496" y="203" key="#Project_Structure/0.23.1792.1030@0.23.1792.1030" timestamp="1584665328424" />
+    <state x="531" y="196" key="#Project_Structure/0.23.1920.988@0.23.1920.988" timestamp="1584673701050" />
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom" timestamp="1584674997023">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1584667790962" />
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1584671800325" />
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1584674997023" />
+    <state width="1878" height="281" key="GridCell.Tab.0.center" timestamp="1584674997022">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1584667790961" />
+    <state width="1878" height="281" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1584671800324" />
+    <state width="1878" height="281" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1584674997022" />
+    <state width="1878" height="281" key="GridCell.Tab.0.left" timestamp="1584674997022">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1584667790960" />
+    <state width="1878" height="281" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1584671800324" />
+    <state width="1878" height="281" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1584674997022" />
+    <state width="1878" height="281" key="GridCell.Tab.0.right" timestamp="1584674997023">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1584667790961" />
+    <state width="1878" height="281" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1584671800324" />
+    <state width="1878" height="281" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1584674997023" />
+    <state x="469" y="155" key="SettingsEditor" timestamp="1584670298657">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state x="469" y="155" key="SettingsEditor/0.23.1920.986@0.23.1920.986" timestamp="1584670298657" />
+  </component>
+</project>
